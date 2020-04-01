@@ -1,0 +1,13 @@
+.img-user {
+    background-color: #277fa5;
+    padding: 60px 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.img-user img {
+    position: absolute;
+    bottom: -50px;
+    border-radius: 50% 50%;
+    border: 6px solid #ffffff;
+}
